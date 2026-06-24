@@ -1,4 +1,4 @@
-## Pierre Awad <img height="40"  align="top" src="https://github.com/user-attachments/assets/3aceff7a-98bf-4362-bc50-efa7ca988500" />
+# Pierre Awad <img height="50"  align="top" src="https://github.com/user-attachments/assets/3aceff7a-98bf-4362-bc50-efa7ca988500" />
 
 Computer Engineering student focused on embedded systems, electronics, and software development.  
 
